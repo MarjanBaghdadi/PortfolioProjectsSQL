@@ -77,7 +77,7 @@ Steps Done:
 
 Link to public dashboard: 
 
-“https://public.tableau.com/app/profile/marjan.baghdadi/viz/Tweeter_16592822152870/Dashboard1”
+"https://public.tableau.com/shared/GYPXZFWTX?:display_count=n&:origin=viz_share_link"
 
 ![tableau_dashboard](https://user-images.githubusercontent.com/35376484/182110647-50d5d467-2444-4f3d-a4b6-72f77f61b14e.JPG)
 
