@@ -43,6 +43,5 @@ https://public.tableau.com/views/CovidDashboard1_16575752982990/Dashboard1?:lang
 
 
 
-
-![Dashboard 1](https://user-images.githubusercontent.com/35376484/182116665-f72fc3fa-8a02-4a27-93bb-17911eec628d.png)
+![Dashboard 1 (2)](https://user-images.githubusercontent.com/35376484/182124264-869a1d18-bebc-4ac1-93e7-cf90e999908a.png)
 
